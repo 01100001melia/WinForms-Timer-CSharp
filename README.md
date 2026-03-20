@@ -1,4 +1,4 @@
-# WinForms-Timer-CSharp
+
 # WinForms Timer App — C#
 
 A clean and simple Timer application built with C# Windows Forms.
