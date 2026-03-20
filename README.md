@@ -33,6 +33,3 @@ Timer_App/
 ├── Form1.Designer.cs  # UI Controls
 └── Timer_App.sln      # Solution file
 ```
-
-
-* Built with love while learning C# Windows Forms *
